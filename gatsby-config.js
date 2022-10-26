@@ -4,8 +4,8 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Contentful Starter",
-    description: "Official Contentful Gatsby Starter",
+    title: "陈国政 official web site",
+    description: "Chen Guozheng official web site",
   },
   plugins: [
     "gatsby-transformer-sharp",
